@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Layouts</string>
+    <string name="title_activity_act2">Act2</string>
+
+    <string-array name="ops">
+        <item>-</item>
+        <item>Frame</item>
+        <item>Linear</item>
+        <item>Relative</item>
+        <item>Table</item>
+
+
+    </string-array>
+    <string name="title_activity_frame">Frame</string>
+    <string name="title_activity_linear">Linear</string>
+    <string name="title_activity_relative">Relative</string>
+    <string name="title_activity_table">Table</string>
+
+
+</resources>
